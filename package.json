@@ -1,5 +1,5 @@
 {
-  "name": "programming-thoughts",
+  "name": "mern-app-w-graphql",
   "version": "1.0.0",
   "description": "",
   "main": "server/server.js",
